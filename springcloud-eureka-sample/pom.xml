@@ -10,8 +10,12 @@
 
 	<modules>
 		<!-- Spring Cloud 之 Eureka 入门案例 -->
-		<!-- Spring Cloud Eureka 注册中心服务 -->
+		<!-- Spring Cloud Eureka 服务注册中心 -->
 		<module>springcloud-eureka-server</module>
+		<!-- Spring Cloud 服务提供者 -->
+		<module>springcloud-eureka-client-provider</module>
+		<!-- Spring Cloud 服务消费者 -->
+		<module>springcloud-eureka-client-customer</module>
 	</modules>
 
 </project>
