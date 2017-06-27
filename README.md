@@ -41,6 +41,8 @@ Spring For All 社区 ⑫ 498098401 <br>
 对应教程：
 - [《Spring Cloud 之 Eureka 入门详解》](http://spring4all.com/explore/category-springcloud)<br>
 
+- - -
+
 #### springcloud-eureka-cluster (Spring Cloud 之 Eureka cluster 集群案例)
 - springcloud-eureka-cluster-server (Spring Cloud Eureka 服务注册中心集群)
 - springcloud-eureka-cluster-client-provider (Spring Cloud 服务提供者集群）
@@ -49,7 +51,7 @@ Spring For All 社区 ⑫ 498098401 <br>
 对应教程：
 - [《Spring Cloud 之 Eureka 集群搭建（一）Eureka 注册中心服务集群》](http://spring4all.com/explore/category-springcloud)<br>
 - [《Spring Cloud 之 Eureka 集群搭建（二）Eureka 服务提供者和消费者集群》](http://spring4all.com/explore/category-springcloud)<br>
-
+</pre>
 
 ## 二、项目 Quick Start 快速开发指南
 
