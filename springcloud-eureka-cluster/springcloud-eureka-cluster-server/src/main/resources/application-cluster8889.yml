@@ -1,0 +1,13 @@
+server:
+  port: 8889
+
+eureka:
+  instance:
+    hostname: hostB # 设置主机名
+  client:
+    service-url:
+      defaultZone: http://hostA:8888/eureka/
+
+spring:
+  application:
+    name: eureka-cluster-server

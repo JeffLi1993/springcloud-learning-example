@@ -12,8 +12,8 @@
 		<!-- Eureka 篇 -->
 		<!-- Spring Cloud 之 Eureka 入门案例 -->
 		<module>springcloud-eureka-sample</module>
-		<!-- Spring Cloud 之 Eureka cluster 集群案例 
-		<module>springcloud-eureka-cluster</module>-->
+		<!-- Spring Cloud 之 Eureka cluster 集群案例 -->
+		<module>springcloud-eureka-cluster</module>
 	</modules>
 
 </project>
