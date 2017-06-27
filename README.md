@@ -29,12 +29,24 @@ Spring For All 社区 ⑫ 498098401 <br>
 
 
 ## 一、项目结构
+「Spring Cloud 那些事」：[传送门](http://www.bysocket.com/?p=1907)<br>
 
 #### a. 『 Eureka 篇 』
+
 - springcloud-eureka-sample (Spring Cloud 之 Eureka 入门案例)
     - springcloud-eureka-server (Spring Cloud Eureka 注册中心服务)
     - springcloud-eureka-client-provider (Spring Cloud 服务提供者）
     - springcloud-eureka-client-customer (Spring Cloud 服务消费者)
+
+ [《Spring Cloud 之 Eureka 入门详解》](http://spring4all.com/explore/category-springcloud)<br>
+
+
+- springcloud-eureka-cluster (Spring Cloud 之 Eureka cluster 集群案例)
+    - springcloud-eureka-cluster-server (Spring Cloud Eureka 服务注册中心集群)
+    - springcloud-eureka-cluster-client-provider (Spring Cloud 服务提供者集群）
+    - springcloud-eureka-cluster-client-customer (Spring Cloud 服务消费者集群)
+
+
 
 ## 二、项目 Quick Start 快速开发指南
 
