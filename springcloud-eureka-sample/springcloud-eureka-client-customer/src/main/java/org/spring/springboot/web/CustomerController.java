@@ -18,7 +18,7 @@ public class CustomerController {
     private static final Logger LOGGER = LoggerFactory.getLogger(CustomerController.class);
 
     @Autowired
-    private RestTemplate restTemplate;
+    private RestTemplate restTemplate; // HTTP 访问操作类
 
     @RequestMapping("/customer")
     public String customer() {

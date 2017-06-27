@@ -23,10 +23,10 @@ public class ProviderController {
     private static final Logger LOGGER = LoggerFactory.getLogger(ProviderController.class);
 
     @Autowired
-    private DiscoveryClient discoveryClient;
+    private Registration registration;       // 服务注册
 
     @Autowired
-    private Registration registration;
+    private DiscoveryClient discoveryClient; // 服务发现客户端
 
     @RequestMapping("/provider")
     public String provider() {
@@ -36,6 +36,11 @@ public class ProviderController {
         return "Hello,Provider!";
     }
 
+    /**
+     * 获取当前服务的服务实例
+     *
+     * @return ServiceInstance
+     */
     public ServiceInstance serviceInstance() {
         List<ServiceInstance> list = discoveryClient.getInstances(registration.getServiceId());
         if (list != null && list.size() > 0) {
