@@ -22,12 +22,6 @@
             <artifactId>spring-cloud-starter-eureka</artifactId>
         </dependency>
 
-        <!-- Spring Cloud Netflix Ribbon 依赖 -->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-ribbon</artifactId>
-        </dependency>
-
         <!-- Spring Boot Test 依赖 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>

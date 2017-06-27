@@ -1,11 +1,8 @@
-server:
-  port: 8080
-
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:8888/eureka/
+      defaultZone: http://hostA:8888/eureka/,http://hostB:8889/eureka/
 
 spring:
   application:
-    name: provider-service
+    name: cluster-provider-service

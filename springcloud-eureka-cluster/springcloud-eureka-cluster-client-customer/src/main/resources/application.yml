@@ -1,5 +1,5 @@
 server:
-  port: 8081
+  port: 8083
 
 eureka:
   client:
@@ -8,4 +8,4 @@ eureka:
 
 spring:
   application:
-    name: customer-service
+    name: cluster-customer-service
