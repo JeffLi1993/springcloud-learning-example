@@ -1,4 +1,4 @@
-package org.spring.springboot.web;
+package org.spring.springcloud.web;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
