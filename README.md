@@ -40,8 +40,8 @@ Spring For All 社区 ⑫ 498098401 <br>
 
 对应教程：
 - [《Spring Cloud Eureka 入门 （一）服务注册中心详解》](http://spring4all.com/article/101)<br>
-- [《Spring Cloud Eureka 入门 （二）服务提供者详解》](http://spring4all.com/article/101)<br>
-- [《Spring Cloud Eureka 入门 （三）服务消费者详解》](http://spring4all.com/article/101)<br>
+- [《Spring Cloud Eureka 入门 （二）服务提供者详解》](http://spring4all.com/article/122)<br>
+- [《Spring Cloud Eureka 入门 （三）服务消费者详解》](http://spring4all.com/article/131)<br>
 
 - - -
 
