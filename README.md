@@ -39,9 +39,9 @@ Spring For All 社区 ⑫ 498098401 <br>
 - springcloud-eureka-client-customer (Spring Cloud 服务消费者)
 
 对应教程：
-- [《Spring Cloud Eureka 入门 （一）服务注册中心详解》](http://spring4all.com/article/101)<br>
-- [《Spring Cloud Eureka 入门 （二）服务提供者详解》](http://spring4all.com/article/122)<br>
-- [《Spring Cloud Eureka 入门 （三）服务消费者详解》](http://spring4all.com/article/131)<br>
+- [《Spring Cloud Eureka 入门 （一）服务注册中心详解》](https://www.bysocket.com/?p=1915)<br>
+- [《Spring Cloud Eureka 入门 （二）服务提供者详解》](https://www.bysocket.com/?p=1919)<br>
+- [《Spring Cloud Eureka 入门 （三）服务消费者详解》](https://www.bysocket.com/?p=1923)<br>
 
 - - -
 
@@ -51,8 +51,8 @@ Spring For All 社区 ⑫ 498098401 <br>
 - springcloud-eureka-cluster-client-customer (Spring Cloud 服务消费者集群)
 
 对应教程：
-- [《Spring Cloud 之 Eureka 集群搭建（一）Eureka 注册中心服务集群》](http://spring4all.com/explore/category-springcloud)<br>
-- [《Spring Cloud 之 Eureka 集群搭建（二）Eureka 服务提供者和消费者集群》](http://spring4all.com/explore/category-springcloud)<br>
+- 《Spring Cloud 之 Eureka 集群搭建（一）Eureka 注册中心服务集群》<br>
+- 《Spring Cloud 之 Eureka 集群搭建（二）Eureka 服务提供者和消费者集群》<br>
 </pre>
 
 ## 二、项目 Quick Start 快速开发指南
