@@ -1,7 +1,7 @@
 # springcloud-learning-example
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
-如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个价格最良心的视频课程：["玩转Spring全家桶"](https://time.geekbang.org/course/intro/156?code=zqaEuXYpWbKaPeBaJc8GVoYCUHvoGhTlQQ7QZYoWWdI%3D&utm_term=SPoster)
+如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个价格最良心的视频课程：[“玩转Spring全家桶”](https://time.geekbang.org/course/intro/156?code=zqaEuXYpWbKaPeBaJc8GVoYCUHvoGhTlQQ7QZYoWWdI%3D&utm_term=zeusDUJ0V&utm_source=website&utm_medium=bysocket "“玩转Spring全家桶”")
 # 赞助商，真的好
 <table>
       <tbody>
