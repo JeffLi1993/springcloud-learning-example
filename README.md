@@ -1,45 +1,16 @@
+推荐工具：
+
+[微信公众号 Markdown 编辑器 - OpenWrite](https://md.openwrite.cn/)：Markdown 微信编辑器是一款专业强大的微信公众平台在线编辑排版工具，提供手机预览功能，让用户在微信图文 、文章、内容排版、文本编辑、素材编辑上更加方便。 - [更多介绍](https://openwrite.cn/product-markdown)
+
+[博客群发平台](https://openwrite.cn)
+
 # springcloud-learning-example
 spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固的最佳实践。
 
 如果您对文字类教程不感冒或者想要通过综合案例学习Spring，那么给您推荐这个价格最良心的视频课程：[“玩转Spring全家桶”](https://time.geekbang.org/course/intro/156?code=zqaEuXYpWbKaPeBaJc8GVoYCUHvoGhTlQQ7QZYoWWdI%3D&utm_term=zeusDUJ0V&utm_source=website&utm_medium=bysocket "“玩转Spring全家桶”")
-# 赞助商，真的好
-<table>
-      <tbody>
-            <tr>
-          <td align="center" valign="middle">
-            <a href="https://e.coding.net/?utm_source=JeffLi" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-1-500X166.jpg?raw=true">
-            </a>
-          </td>
-          <td align="center" valign="middle">
-            <a href="https://www.aliyun.com/acts/product-section-2019/new-users?userCode=6fxp5l2j" target="_blank">
-              <img width="300" src="https://github.com/dyc87112/SpringBoot-Learning/blob/master/sponsor/git-springboot-sponsor-2-300x100.jpg?raw=true">
-            </a>
-          </td>     
-        </tr>
-      </tbody>
-      
-</table>
 
 ## Spring For All 社区
 [Spring For All 社区](http://www.spring4all.com/ "spring4all")是新组建的关于 Spring 的纯技术交流社区（涵盖 Spring Boot、Spring Cloud 等内容），集诸多开源爱好者和技术大牛贡献内容和交流问题。我们不夸大、不装逼、做最纯粹的技术分享！！！
-
-看看我们超强的群众基础，欢迎有兴趣的朋友加入QQ群分享与交流：
-
-Spring For All 社区 ① 365234583（满）<br>
-Spring For All 社区 ② 123013854（满）<br>
-Spring For All 社区 ③ 290714704（满）<br>
-Spring For All 社区 ④ 112133511（满）<br>
-Spring For All 社区 ⑤ 157525002（满）<br>
-Spring For All 社区 ⑥ 564840207<br>
-Spring For All 社区 ⑦ 470962790（满）<br>
-Spring For All 社区 ⑧ 613456104（满）<br>
-Spring For All 社区 ⑨ 534583667<br>
-Spring For All 社区 ⑩ 210742970 （满）<br>
-Spring For All 社区 ⑪ 517395240 <br>
-Spring For All 社区 ⑫ 498098401 <br>
-
-博主微信：139-5868-6678
 
 ## 作者与学习乐园
 源码地址：我的[GitHub地址](https://github.com/JeffLi1993 "GitHub")、[OSCGit地址](https://git.oschina.net/jeff1993/springboot-learning-example "OSCGit")<br>
