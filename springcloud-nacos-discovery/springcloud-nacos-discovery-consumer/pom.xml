@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>springcloud</groupId>
-    <artifactId>springcloud-nacos-discovery-provider</artifactId>
+    <artifactId>springcloud-nacos-discovery-consumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springcloud-nacos-discovery-provider :: 服务提供者</name>
+    <name>springcloud-nacos-discovery-consumer :: 服务消费者</name>
 
     <!-- Spring Boot 启动父依赖 -->
     <parent>
@@ -35,6 +35,12 @@
             <artifactId>nacos-client</artifactId>
         </dependency>
 
+        <!-- Spring Cloud Feign 依赖 -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+
         <!-- Spring Boot Web 依赖 -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
@@ -46,13 +52,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
-        </dependency>
-
-        <dependency>
-            <groupId>org.projectlombok</groupId>
-            <artifactId>lombok</artifactId>
-            <version>1.18.10</version>
-            <optional>true</optional>
         </dependency>
 
     </dependencies>

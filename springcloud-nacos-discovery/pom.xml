@@ -12,10 +12,8 @@
 		<!-- Spring Cloud 之 Nacos 入门案例 -->
 		<!-- Spring Cloud Nacos 服务提供者 -->
 		<module>springcloud-nacos-discovery-provider</module>
-		<!-- Spring Cloud Nacos 服务消费者 
-		<module>springcloud-eureka-client-customer</module>
-        -->
-
+		<!-- Spring Cloud Nacos 服务消费者 -->
+		<module>springcloud-nacos-discovery-consumer</module>
 	</modules>
 
 </project>
