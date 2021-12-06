@@ -5,7 +5,7 @@
 
 	<groupId>springcloud</groupId>
 	<artifactId>springcloud</artifactId>
-	<version>1.0-SNAPSHOT</version>
+	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<modules>
@@ -14,6 +14,10 @@
 		<module>springcloud-eureka-sample</module>
 		<!-- Spring Cloud 之 Eureka cluster 集群案例 -->
 		<module>springcloud-eureka-cluster</module>
+
+		<!-- Nacos 篇 -->
+		<!-- Spring Cloud 之整合 Nacos 实现服务注册与发现 -->
+		<module>springcloud-nacos-discovery</module>
 	</modules>
 
 </project>

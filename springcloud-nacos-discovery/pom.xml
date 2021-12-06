@@ -1,21 +1,20 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<name>springcloud-eureka-sample :: Eureka 服务注册中心单机案例</name>
+	<name>springcloud-nacos-discovery :: Nacos Sample</name>
 
 	<groupId>springcloud</groupId>
-	<artifactId>springcloud-eureka-sample</artifactId>
+	<artifactId>springcloud-nacos-discovery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
 	<modules>
-		<!-- Spring Cloud 之 Eureka 入门案例 -->
-		<!-- Spring Cloud Eureka 服务注册中心 -->
-		<module>springcloud-eureka-server</module>
-		<!-- Spring Cloud 服务提供者 -->
-		<module>springcloud-eureka-client-provider</module>
-		<!-- Spring Cloud 服务消费者 -->
+		<!-- Spring Cloud 之 Nacos 入门案例 -->
+		<!-- Spring Cloud Nacos 服务提供者 -->
+		<module>springcloud-nacos-discovery-provider</module>
+		<!-- Spring Cloud Nacos 服务消费者 
 		<module>springcloud-eureka-client-customer</module>
+        -->
 
 	</modules>
 
