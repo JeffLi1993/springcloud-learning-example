@@ -16,8 +16,10 @@
 		<module>springcloud-eureka-cluster</module>
 
 		<!-- Nacos 篇 -->
-		<!-- Spring Cloud 之整合 Nacos 实现服务注册与发现 -->
+		<!-- Spring Cloud 之整合 Nacos 实现服务注册与发现，并支持 Feign 服务消费 -->
 		<module>springcloud-nacos-discovery</module>
+		<!-- Spring Cloud 之整合 Nacos 实现服务配置中心 -->
+		<module>springcloud-nacos-config-sample</module>
 	</modules>
 
 </project>

@@ -6,7 +6,7 @@
     <groupId>springcloud</groupId>
     <artifactId>springcloud-eureka-cluster-server</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>springcloud-eureka-cluster-server :: Spring Cloud Eureka 服务注册中心集群</name>
+    <name>springcloud-eureka-cluster-server :: Eureka 服务注册中心集群</name>
 
     <!-- Spring Boot 启动父依赖 -->
     <parent>
