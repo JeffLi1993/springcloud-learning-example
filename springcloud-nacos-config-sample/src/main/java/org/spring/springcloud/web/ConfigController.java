@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * Config 案例
  * <p>
- * Created by bysocket on 21/12/06.
+ * Created by bysocket on 21/12/07.
  */
 @RestController
 @Slf4j
