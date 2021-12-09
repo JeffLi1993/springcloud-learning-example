@@ -1,0 +1,6 @@
+server:
+  port: 8083 # 服务端口
+
+spring:
+  application:
+    name: config-service # 服务名称

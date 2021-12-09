@@ -9,7 +9,7 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<!-- Spring Cloud 之 Nacos 入门案例 -->
+		<!-- Spring Cloud 之 Nacos Nacos 服务注册中心案例 -->
 		<!-- Spring Cloud Nacos 服务提供者 -->
 		<module>springcloud-nacos-discovery-provider</module>
 		<!-- Spring Cloud Nacos 服务消费者 -->
