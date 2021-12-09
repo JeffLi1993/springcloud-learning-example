@@ -9,7 +9,6 @@ import org.springframework.cloud.client.discovery.EnableDiscoveryClient;
  *
  * Created by bysocket on 21/12/06.
  */
-@EnableDiscoveryClient  // Spring Cloud 服务注册与发现标识
 @SpringBootApplication  // Spring Boot 应用标识
 public class ProviderApplication {
 

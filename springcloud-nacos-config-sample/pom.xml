@@ -47,7 +47,8 @@
 
     <dependencyManagement>
         <dependencies>
-            
+
+            <!-- Spring Cloud Alibaba Nacos Config 依赖 -->
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
