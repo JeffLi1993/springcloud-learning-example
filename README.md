@@ -11,7 +11,7 @@ Spring Cloud 实践学习案例，是 Spring Cloud 初学者及核心技术巩�
 关注微信公众号【程序员泥瓦匠】，及时得到技术文章推送<br>
 
 ## 二、项目结构
-《Spring Cloud 系列教程》：[https://www.bysocket.com/2017-06-27/spring-cloud.html](https://www.bysocket.com/2017-06-27/spring-cloud.html) <br>
+《Spring Cloud 系列教程》：[https://www.bysocket.com/spring-cloud](https://www.bysocket.com/spring-cloud) <br>
 
 ### 「Nacos 篇」
 
