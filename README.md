@@ -22,6 +22,9 @@ Spring Cloud 实践学习案例，是 Spring Cloud 初学者及核心技术巩�
 
 #### springcloud-nacos-config-sample （Spring Cloud 之整合 Nacos 服务配置中心案例）
 
+- [《Spring Cloud 整合 Nacos 实现服务配置中心》](https://www.bysocket.com/2021-12-10/spring-cloud-nacos-config.html) 
+- [《Nacos 本地单机版部署步骤和使用》](https://www.bysocket.com/2021-12-05/nacos-install-mysql.html)
+
 ---
 
 ### 「Eureka 篇」
